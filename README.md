@@ -9,10 +9,10 @@
 ### BLM 305 -- Advanced Programming
 
 <b>JavaScript pages</b><br>
-* [2021](/2021)
-* [2020](/2020)
-* [2019](/2019)
-* [2018](/2018)
+* [2021](https://blm305.github.io/2021)
+* [2020](https://blm305.github.io/2020)
+* [2019](https://blm305.github.io/2019)
+* [2018](https://blm305.github.io/2018)
 
 <b>Java repositories</b><br>
 * [2017](https://github.com/BLM305/2017)
